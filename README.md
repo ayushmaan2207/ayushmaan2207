@@ -59,8 +59,6 @@
 ###
 
 <br clear="both">
-<img src="https://github.com/ayushmaan2207/ayushmaan2207/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
-###
+<img src="https://raw.githubusercontent.com/ayushmaan2207/ayushmaan2207/output/snake.svg" alt="Snake animation" />
 
-###
