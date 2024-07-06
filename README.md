@@ -4,14 +4,14 @@
 <p align="left">Currently pursuing BE/CSE at Chitkara University, I blend creativity and technology to craft innovative solutions. My journey involves producing commissioned artwork, creating captivating multimedia content, and developing user-friendly websites.  Feel free to connect with me for any inquiries or collaboration opportunities.</p>
 
 
+
+
+
+<img align="right" width="390" src="gifi.gif"  />
+
 <h3 align="left">🌱 I’m currently learning</h3>
 <p align="left">• Data Structures & Algorithms<br>• MERN Stack</p>
 
-
-
-<img align="right" height="220" src="https://media.licdn.com/dms/image/D5603AQG0F3vRCxUF6Q/profile-displayphoto-shrink_400_400/0/1718539228631?e=1725494400&v=beta&t=8JoRB-FYwN77ZwvJKd8G_eZtda3_G-T3eEgaDmDCfvE"  />
-
-###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
