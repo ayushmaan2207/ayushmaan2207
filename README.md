@@ -1,26 +1,60 @@
-<h1 >Hello there👋, I'm Ayushmaan
-<h3>Web Developer, Content Creator, and an Artist.</h3>
-</h1>
+![logo](https://media.licdn.com/dms/image/D5616AQGbdTx1y7lC0Q/profile-displaybackgroundimage-shrink_350_1400/0/1715495055209?e=1725494400&v=beta&t=Tb8Y-rsdjbDsq4iEvlMz3qimEQgNeaFeLONdIK_tCAE)
+###
+
+<p align="left">Currently pursuing BE/CSE at Chitkara University, I blend creativity and technology to craft innovative solutions. My journey involves producing commissioned artwork, creating captivating multimedia content, and developing user-friendly websites.  Feel free to connect with me for any inquiries or collaboration opportunities.</p>
 
 
-Currently pursuing BE/CSE at Chitkara University, I blend creativity and technology to craft innovative solutions. My journey involves producing commissioned artwork, creating captivating multimedia content, and developing user-friendly websites. I bring to the table a unique blend of web development, content creation, and artistic flair. My current goal is to collaborate with fellow professionals to explore new possibilities and push the boundaries of innovation. Feel free to connect with me for any inquiries or collaboration opportunities.
+<h3 align="left">🌱 I’m currently learning</h3>
+<p align="left">• Data Structures & Algorithms<br>• MERN Stack</p>
 
-🌱 I’m currently learning
-- Data Structures & Algorithms
-- MERN Stack
+
+
+<img align="right" height="220" src="https://media.licdn.com/dms/image/D5603AQG0F3vRCxUF6Q/profile-displayphoto-shrink_400_400/0/1718539228631?e=1725494400&v=beta&t=8JoRB-FYwN77ZwvJKd8G_eZtda3_G-T3eEgaDmDCfvE"  />
+
+###
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
+</div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayushmaan2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushmaan2207" height="30" width="40" /></a>
-<a href="https://instagram.com/visualsbyayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="visualsbyayu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushmaan2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushmaan2207" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushmaan2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushmaan2207" height="52" width="40" /></a><img width="12" />
+<a href="https://instagram.com/visualsbyayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="visualsbyayu" height="52" width="40" /></a><img width="12" />
+<a href="https://www.leetcode.com/ayushmaan2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushmaan2207" height="52" width="40" /></a><img width="12" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmaan2207&show_icons=true&locale=en&layout=compact" alt="ayushmaan2207" /></p>
+<br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmaan2207&show_icons=true&locale=en" alt="ayushmaan2207" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmaan2207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmaan2207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ayushmaan2207&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmaan2207&" alt="ayushmaan2207" /></p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ayushmaan2207/ayushmaan2207/output/snake.svg" alt="Snake animation" />
+
+###
