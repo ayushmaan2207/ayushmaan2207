@@ -1,5 +1,7 @@
-<h1 align="center">Hello there 👋, I'm Ayushmaan</h1>
-<h3 align="center">Web Developer, Content Creator, and an Artist.</h3>
+<h1 >Hello there👋, I'm Ayushmaan
+<h3>Web Developer, Content Creator, and an Artist.</h3>
+</h1>
+
 
 Currently pursuing BE/CSE at Chitkara University, I blend creativity and technology to craft innovative solutions. My journey involves producing commissioned artwork, creating captivating multimedia content, and developing user-friendly websites. I bring to the table a unique blend of web development, content creation, and artistic flair. My current goal is to collaborate with fellow professionals to explore new possibilities and push the boundaries of innovation. Feel free to connect with me for any inquiries or collaboration opportunities.
 
