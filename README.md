@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/49bb445b-64b5-42bf-b9bd-a7a3534594a9)![logo]()
+![image](https://github.com/user-attachments/assets/49bb445b-64b5-42bf-b9bd-a7a3534594a9)
 ###
 
 <p align="left">Currently pursuing BE/CSE at Chitkara University, I blend creativity and technology to craft innovative solutions. My journey involves producing commissioned artwork, creating captivating multimedia content, and developing user-friendly websites.  Feel free to connect with me for any inquiries or collaboration opportunities.</p>
